@@ -3,6 +3,8 @@ package net.rodald;
 public class Datatypes {
     public static void main(String[] args) {
         // Title: String Variable
+
+        // variable names always camelcase
         String output = "Hello, World!";
 
         System.out.println(output);
@@ -19,11 +21,11 @@ public class Datatypes {
 
 //        int number1 = 37;
 //        int number2 = 42;
-//        int sum = number1+ number2;
+//        int sum = number1 + number2;
 //
 //        System.out.println(sum);
 
-    // Title: Number Operations
+        // Title: Number Operations
 //        int number1, number2, sum;
 //        number1 = 37;
 //        number2 = 42;

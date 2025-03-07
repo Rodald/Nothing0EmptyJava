@@ -12,5 +12,18 @@ public class Main {
          */
 
         // System.out.print("Hello, World!");
+
+        // Title: System.out.println() with numbers and operations
+        // System.out.println(255);
+
+        // System.out.println(37 + 42);
+
+
+        // Title: combining Strings and numbers
+        // System.out.println("My favorite number is: " + 255);
+
+
+        // System.out.println("37" + 42);
+        // System.out.println("37 + 42");
     }
 }
